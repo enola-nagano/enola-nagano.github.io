@@ -10,16 +10,56 @@ folder: product1
 ## Virtual Box
 
 Virtual Box 정보 : Version 7.0
-https://www.notion.so/AM-09-Ubuntu-a31e1b5ed4314b3291912fb270324804?pvs=4#33e72020e28341a78531126a7950043a
+{% include inline_image.html file="01_virtualbox_ver.png" alt="virtualbox_ver" %}
+
+## Information Virtual Machine
+
+1. 최소 용량
+- Ubuntu Client RAM : 2G (2048MB)
+- Ubuntu Server RAM : 1G (1024MB)
+- Windows 10 Server / Client RAM : 4G (4096MB)
+
+{% include inline_image.html file="01_task_manager.png" alt="task_manager" %}
+→ 메모리 용량을 보고 더 늘려도 상관 없음.
 
 
+2. CPU 개수
+- 2개
 
-## More sample content
+## Install Ubuntu Client
 
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+{% include inline_image.html file="01_ubuntudesk_install_1.png" alt="01_ubuntudesk_install_1" %}
 
-The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+{% include inline_image.html file="01_ubuntudesk_install_2.png" alt="01_ubuntudesk_install_2" %}
 
-There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+{% include inline_image.html file="01_ubuntudesk_install_3.png" alt="01_ubuntudesk_install_3" %}
 
-{% include links.html %}
+→ ubuntu / ubuntu
+호스트 이름과 도메인 이름은 동일하게
+
+{% include inline_image.html file="01_ubuntudesk_install_4.png" alt="01_ubuntudesk_install_4" %}
+
+{% include inline_image.html file="01_ubuntudesk_install_5.png" alt="01_ubuntudesk_install_5" %}
+
+→ 미리 전체 크기 할당 - 실제로 물리적으로 그만큼 할당 됨.
+체크하지 않을 경우 유동적으로 디스크 크기를 할당함.
+
+{% include inline_image.html file="01_ubuntudesk_install_6.png" alt="01_ubuntudesk_install_6" %}
+
+{% include inline_image.html file="01_ubuntudesk_install_7.png" alt="01_ubuntudesk_install_7" %}
+
+{% include inline_image.html file="01_ubuntudesk_install_8.png" alt="01_ubuntudesk_install_8" %}
+
+→ 가상머신이 자동으로 설치된다.
+
+{% include inline_image.html file="01_ubuntudesk_install_9.png" alt="01_ubuntudesk_install_9" %}
+
+→ vbox - 가상 머신
+vdi - 가상 이미지
+이 폴더가 하나의 가상 머신 환경을 구성함.
+
+{% include inline_image.html file="01_ubuntudesk_install_10.png" alt="01_ubuntudesk_install_10" %}
+
+→ 설치 완료.
+
+{% include inline_image.html file="01_ubuntudesk_install_11.png" alt="01_ubuntudesk_install_11" %}
