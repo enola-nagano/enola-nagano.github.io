@@ -2,7 +2,7 @@
 title: Ubuntu Client 설치
 keywords: ubuntu client
 summary: "Ubuntu Client 설치 방법"
-sidebar: product1_sidebar
+sidebar: systemoperation_sidebar
 permalink: ubuntu_01_01.html
 folder: product1
 ---
