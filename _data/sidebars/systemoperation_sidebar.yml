@@ -24,7 +24,7 @@ entries:
     output: web, pdf
     folderitems:
     - title: Network
-      url: /p1_landing_page.html
+      url: /ubuntu_01_01.html
       output: web
 
     - title: L2
