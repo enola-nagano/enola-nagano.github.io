@@ -23,8 +23,8 @@ entries:
   - title: Private Cloud
     output: web, pdf
     folderitems:
-    - title: Network
-      url: /ubuntu_01_01.html
+    - title: L1
+      url: /p1_sample1.html
       output: web
 
     - title: L2
@@ -44,18 +44,18 @@ entries:
 
     folderitems:
     - title: Linux & Windows
-      url: /p1_sample4.html
+      url: /ubuntu_01_01.html
       output: web, pdf
 
     - title: Network
       url: /p1_sample5.html
       output: web, pdf
 
-    - title: Sample 6
+    - title: Database
       url: /p1_sample6.html
       output: web, pdf
 
-    - title: Sample 7
+    - title: CI/CD
       url: /p1_sample7.html
       output: web, pdf
 
