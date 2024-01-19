@@ -42,7 +42,7 @@ entries:
   - title: MSP Solution Architect
     output: web, pdf
 
-    folderitems:
+    folders:
     - title: Linux & Windows
       output: web, pdf
 
