@@ -44,7 +44,6 @@ entries:
 
     folderitems:
     - title: Linux & Windows
-      url: /ubuntu_01_01.html
       output: web, pdf
 
       foleritems:
