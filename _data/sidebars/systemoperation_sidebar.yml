@@ -42,18 +42,11 @@ entries:
   - title: MSP Solution Architect
     output: web, pdf
 
-    folders:
+    folderitems:
     - title: Linux & Windows
+      url: /ubuntu_01_01.html
+      url: /ubuntu_02_10.html
       output: web, pdf
-
-      folderitems:
-      - title: Ubuntu Client 설치
-        url: /ubuntu_01_01.html
-        output: web, pdf
-
-      - title: Ubuntu Terminal 기본 구성
-        url: /ubuntu_02_10.html
-        output: web, pdf        
 
     - title: Network
       url: /p1_sample5.html
