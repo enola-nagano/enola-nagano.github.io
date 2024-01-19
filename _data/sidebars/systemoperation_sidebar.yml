@@ -44,8 +44,11 @@ entries:
 
     folderitems:
     - title: Linux & Windows
-      url: /ubuntu_01_01.html,
-           /ubuntu_02_10.html
+      url: /ubuntu_01_01.html
+      output: web, pdf
+
+    - title: Ubuntu Client Terminal
+      url: /ubuntu_02_10.html
       output: web, pdf
 
     - title: Network
