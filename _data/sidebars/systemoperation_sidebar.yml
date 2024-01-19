@@ -46,7 +46,7 @@ entries:
     - title: Linux & Windows
       output: web, pdf
 
-      foleritems:
+      folderitems:
       - title: Ubuntu Client 설치
         url: /ubuntu_01_01.html
         output: web, pdf
