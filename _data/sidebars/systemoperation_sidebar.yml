@@ -47,20 +47,104 @@ entries:
       url: /ubuntu_01_01.html
       output: web, pdf
 
-    - title: Ubuntu Client Terminal
-      url: /ubuntu_02_10.html
+    - title: Day 03
+      url: /ubuntu_03.html
       output: web, pdf
 
-    - title: Network
-      url: /p1_sample5.html
+    - title: Day 04
+      url: /ubuntu_04.html
       output: web, pdf
-
-    - title: Database
-      url: /p1_sample6.html
+      
+    - title: Day 05
+      url: /ubuntu_05.html
       output: web, pdf
-
-    - title: CI/CD
-      url: /p1_sample7.html
+      
+    - title: Day 06
+      url: /ubuntu_06.html
+      output: web, pdf
+      
+    - title: Day 07
+      url: /ubuntu_07.html
+      output: web, pdf
+      
+    - title: Day 08
+      url: /ubuntu_08.html
+      output: web, pdf
+      
+    - title: Day 09
+      url: /ubuntu_09.html
+      output: web, pdf
+      
+    - title: Day 10
+      url: /ubuntu_10.html
+      output: web, pdf
+      
+    - title: Day 11
+      url: /ubuntu_11.html
+      output: web, pdf
+      
+    - title: Day 12
+      url: /ubuntu_12.html
+      output: web, pdf
+      
+    - title: Day 13
+      url: /ubuntu_13.html
+      output: web, pdf
+      
+    - title: Day 14
+      url: /ubuntu_14.html
+      output: web, pdf
+      
+    - title: Day 15
+      url: /ubuntu_15.html
+      output: web, pdf
+      
+    - title: Day 16
+      url: /ubuntu_16.html
+      output: web, pdf
+      
+    - title: Day 17
+      url: /ubuntu_17.html
+      output: web, pdf
+      
+    - title: Day 18
+      url: /ubuntu_18.html
+      output: web, pdf
+      
+    - title: Day 19
+      url: /ubuntu_19.html
+      output: web, pdf
+      
+    - title: Day 20
+      url: /ubuntu_20.html
+      output: web, pdf
+      
+    - title: Day 21
+      url: /ubuntu_21.html
+      output: web, pdf
+      
+    - title: Day 22
+      url: /ubuntu_22.html
+      output: web, pdf
+      
+    - title: Day 23
+      url: /ubuntu_23.html
+      output: web, pdf
+      
+    - title: Day 24
+      url: /ubuntu_24.html
+      output: web, pdf
+      
+    - title: Day 25
+      url: /ubuntu_03.html
+      output: web, pdf
+      
+    - title: Day 26
+      url: /ubuntu_26.html
+      output: web, pdf
+      
+    - title: Day 27
+      url: /ubuntu_27.html
       output: web, pdf
 
 # Copyright 2021 Google LLC
