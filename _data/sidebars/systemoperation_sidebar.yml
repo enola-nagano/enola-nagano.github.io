@@ -23,21 +23,130 @@ entries:
   - title: Private Cloud
     output: web, pdf
     folderitems:
-    - title: ex
-      url: /ex.html
+    - title: 12 05
+      url: /centos_1205.html
       output: web, pdf
 
-    - title: L2
-      url: /p1_sample1.html
+     - title: 12 06
+      url: /centos_1206.html
       output: web, pdf
 
-    - title: L3
-      url: /p1_sample2.html
+    - title: 12 07
+      url: /centos_1207.html
       output: web, pdf
 
-    - title: L4
-      url: /p1_sample3.html
+    - title: 12 08
+      url: /centos_1208.html
       output: web, pdf
+
+    - title: 12 09
+      url: /centos_1209.html
+      output: web, pdf
+
+    - title: 12 12
+      url: /centos_1212.html
+      output: web, pdf
+
+    - title: 12 13
+      url: /centos_1213.html
+      output: web, pdf
+
+    - title: 12 14
+      url: /centos_1214.html
+      output: web, pdf
+
+    - title: 12 15
+      url: /centos_1215.html
+      output: web, pdf
+
+    - title: 12 16
+      url: /centos_1216.html
+      output: web, pdf
+
+    - title: 12 19
+      url: /centos_1219.html
+      output: web, pdf
+
+    - title: 12 20
+      url: /centos_1220.html
+      output: web, pdf
+
+    - title: 12 21
+      url: /centos_1221.html
+      output: web, pdf
+
+    - title: 12 22
+      url: /centos_1222.html
+      output: web, pdf
+
+    - title: 12 23
+      url: /centos_1223.html
+      output: web, pdf
+
+    - title: 12 26
+      url: /centos_1226.html
+      output: web, pdf
+
+    - title: 12 27
+      url: /centos_1227.html
+      output: web, pdf
+
+    - title: 12 28
+      url: /centos_1228.html
+      output: web, pdf
+
+    - title: 12 29
+      url: /centos_1229.html
+      output: web, pdf
+
+    - title: 12 30
+      url: /centos_1230.html
+      output: web, pdf
+
+    - title: 01 04
+      url: /centos_0104.html
+      output: web, pdf
+
+    - title: 01 05
+      url: /centos_0105.html
+      output: web, pdf
+
+    - title: 01 06
+      url: /centos_0106.html
+      output: web, pdf
+
+    - title: 01 07
+      url: /centos_0107.html
+      output: web, pdf
+
+    - title: 01 08
+      url: /centos_0108.html
+      output: web, pdf
+
+    - title: 01 09
+      url: /centos_0109.html
+      output: web, pdf
+
+    - title: 01 10
+      url: /centos_0110.html
+      output: web, pdf
+
+    - title: 01 11
+      url: /centos_0111.html
+      output: web, pdf
+
+    - title: 01 12
+      url: /centos_0112.html
+      output: web, pdf
+
+    - title: 01 13
+      url: /centos_0113.html
+      output: web, pdf
+
+    - title: 01 17
+      url: /centos_0117.html
+      output: web, pdf
+
 
   - title: MSP Solution Architect
     output: web, pdf
