@@ -25,7 +25,7 @@ entries:
     folderitems:
     - title: ex
       url: /ex.html
-      output: web
+      output: web, pdf
 
     - title: L2
       url: /p1_sample1.html
