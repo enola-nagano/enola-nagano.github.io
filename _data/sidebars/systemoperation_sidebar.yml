@@ -23,15 +23,15 @@ entries:
   - title: Private Cloud
     output: web, pdf
     folderitems:
-    - title: 12 05
+    - title: 1205
       url: /centos_1205.html
       output: web, pdf
 
-     - title: 12 06
+     - title: 1206
       url: /centos_1206.html
       output: web, pdf
 
-    - title: 12 07
+    - title: 1207
       url: /centos_1207.html
       output: web, pdf
 
