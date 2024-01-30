@@ -23,8 +23,8 @@ entries:
   - title: Private Cloud
     output: web, pdf
     folderitems:
-    - title: L1
-      url: /p1_sample1.html
+    - title: ex
+      url: /ex.html
       output: web
 
     - title: L2
