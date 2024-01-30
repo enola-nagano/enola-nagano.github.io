@@ -1,5 +1,5 @@
 ---
-title: 1208
+title: 12 08
 keywords: ubuntu client
 summary: "Ubuntu Client 설치 방법"
 sidebar: systemoperation_sidebar
