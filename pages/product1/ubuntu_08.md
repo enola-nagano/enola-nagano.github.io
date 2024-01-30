@@ -1,9 +1,9 @@
 ---
-title: Day 06
+title: Day 08
 keywords: ubuntu client
 summary: "Ubuntu Client Terminal"
 sidebar: systemoperation_sidebar
-permalink: ubuntu_06.html
+permalink: ubuntu_08.html
 folder: product1
 ---
 
